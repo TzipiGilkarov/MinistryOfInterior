@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration>
+
+    <!--Timeout-->
+    <Timeout>5</Timeout>
+
+    <!--platform-->
+    <PlatformName>web</PlatformName>
+
+    <!--Web-->
+
+    <BrowserName>Chrome</BrowserName>
+    <Url>https://namerz.moin.gov.il/home</Url>
+    <ImageRepo>./ImageRepository/</ImageRepo>
+
+    <!--API-->
+    <url_api></url_api>
+
+
+</Configuration>
